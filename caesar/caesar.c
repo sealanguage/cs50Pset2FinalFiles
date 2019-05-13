@@ -17,7 +17,7 @@ int main(int argc, string argv[])
     }
 
 
-    int key = atoi(argv[1]);    // declare k as an int as per directions, convert glyph to number
+    int key = atoi(argv[1]);    // declare key as an int as per directions, convert glyph to number
     int lower;
 
     // prompt for a the plaintext variable to encrypt
